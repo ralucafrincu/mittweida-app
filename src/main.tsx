@@ -7,7 +7,7 @@ import {Router} from "wouter";
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-      <Router base="/mittweida-project">
+      <Router base="/mittweida-app">
           <App />
       </Router>
   </StrictMode>,
